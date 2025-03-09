@@ -32,4 +32,5 @@ Objective: Demonstrate how to use PowerShell to perform DNS queries between Azur
 <br>
 •	In Wireshark: Filtering for dns lets you see domain name lookups. If a website isn’t loading, checking DNS traffic can help determine if name resolution is the issue.
 <br>
-<img width="1512" alt="Step 7a- DNS" src="https://github.com/user-attachments/assets/608e00dd-723c-498a-b442-78d02f923c3b" />
+
+<img width="1512" alt="Step 7a- DNS" src="https://github.com/user-attachments/assets/4d8254aa-2440-4529-9e59-9f9c437e41e8" />
